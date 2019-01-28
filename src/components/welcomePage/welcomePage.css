@@ -1,0 +1,173 @@
+.welcome-container {
+  width: 1180px;
+  border: 1px solid transparent;
+  margin: auto;
+  margin-top: 47px;
+  background-color: #b4d8e6;
+  padding-bottom: 70px;
+}
+
+.recomendation-title {
+  width: 780px;
+  height: 56px;
+  margin: auto;
+  margin-top: 63px;
+  display: flex;
+  font-size: 49px;
+  object-fit: contain;
+  justify-content: center;
+}
+
+.instruction-title {
+  width: 723px;
+  height: 24px;
+  margin: auto;
+  margin-top: 12px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 18px;
+}
+
+.items-container {
+  margin: 0 50px;
+  margin-top: 24px;
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.items {
+  width: 340px;
+  height: 60px;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  font-family: sans-serif;
+  margin: 10px;
+}
+
+.items.selected {
+  color: #8bb756;
+}
+
+.check-box {
+  width: 24px;
+  border: 1px solid #dcdcdc;
+  height: 24px;
+  margin-left: 18px;
+  margin-right: 12px;
+  cursor: pointer;
+}
+
+.check-box-selected {
+  justify-content: center;
+  width: 24px;
+  background-color: #8bb756;
+  height: 24px;
+  margin-left: 18px;
+  margin-right: 14px;
+  display: flex;
+  cursor: pointer;
+  align-items: center;
+}
+
+.tick {
+  width: 10.7px;
+  height: 8px;
+}
+
+.box-container {
+  display: flex;
+}
+
+.logo {
+  min-width: 40px;
+  max-width: 60px;
+  min-height: 35px;
+  max-height: 45px;
+  margin-left: auto;
+  margin-right: 13px;
+}
+
+.title {
+  width: 78px;
+}
+
+.join-our-newsletter {
+  width: 612px;
+  height: 18px;
+  margin: auto;
+  margin-top: 18px;
+  display: -ms-flexbox;
+  display: flex;
+  justify-content: center;
+  font-size: larger;
+}
+
+.Group-5 {
+  width: 780px;
+  height: 179px;
+  margin: auto;
+  margin-top: 20px;
+  object-fit: contain;
+}
+
+.input-box1 {
+  width: 380px;
+  height: 60px;
+  font-size: larger;
+  border: none;
+  text-indent: 20px;
+}
+
+.input-box2 {
+  width: 380px;
+  height: 60px;
+  margin-top: 20px;
+  margin-left: 99px;
+  font-size: larger;
+  border: none;
+  text-indent: 20px;
+}
+
+.subscribe-button {
+  width: 183px;
+  height: 61px;
+  margin-top: 20px;
+  margin-left: 20px;
+  background-color: #e30613;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: larger;
+  cursor: pointer;
+}
+
+.input-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.subscribe-container {
+  display: flex;
+}
+
+.policy-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 16px;
+}
+
+.private-policy-box {
+  width: 18px;
+  height: 18px;
+  border: 1px solid;
+  cursor: pointer;
+}
+
+.private-policy-text {
+  justify-content: baseline;
+  margin-left: 10px;
+  margin-top: 2px;
+}

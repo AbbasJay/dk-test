@@ -1,0 +1,8 @@
+.success-logo-container {
+  display: flex;
+  justify-content: center;
+}
+
+img.success-logo {
+  margin-top: 47px;
+}
